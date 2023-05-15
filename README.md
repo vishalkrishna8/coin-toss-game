@@ -1,10 +1,10 @@
-# Coin toss game
+## Coin toss game
 
 
 This is a simple Coin Toss Game built using JavaScript that allows users to simulate coin tosses and keep track of the results.
 
 
-**Features**
+## Features
 
 
 - Users can select the number of coin tosses to simulate.
@@ -12,7 +12,7 @@ This is a simple Coin Toss Game built using JavaScript that allows users to simu
 - Users can reset the game at any time.
 
 
-**Technologies**
+## Technologies
 
 
 This application was built using the following technologies:
@@ -22,7 +22,7 @@ This application was built using the following technologies:
 - JavaScript
 
 
-**Installation**
+## Installation
 
 
 To run this application locally, please follow these steps:
@@ -31,7 +31,7 @@ To run this application locally, please follow these steps:
 2. Open the `index.html` file in your browser.
 
 
-**Usage**
+## Usage
 
 
 To use this application, simply follow these steps:
@@ -42,7 +42,7 @@ To use this application, simply follow these steps:
 4. To reset the game, click on the 'Reset' button.
 
 
-**License**
+## License
 
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). Feel free to use and modify this code as per your requirements.
